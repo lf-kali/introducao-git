@@ -1,0 +1,16 @@
+git init -> criar o repositório local
+
+git remote add origin 'link do github' -> linkar repositório local com o remoto
+
+git add . -> stagear mudanças de arquivos
+
+git commit -m
+
+git push -u origin main -> envia o commit pro repositório online, o -u faz com que o local/source acompanhe o remoto/origin. Depois disso, todos os pushes e pulls podem ser feitos só com "git push" e "git pull"
+
+
+
+
+
+
+
